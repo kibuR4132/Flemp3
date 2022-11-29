@@ -10,7 +10,7 @@ Make it executable.
 And run.
 `./Flemp3.sh`
 
-Warning:  It is not good procedure to run random bash scripts on the internet.
+Warning:  It is not good procedure to run random bash script on the internet.
 Look at scripts before you run them.  
 
 ## ToDo (in no particular order)
