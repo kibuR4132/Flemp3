@@ -10,8 +10,8 @@ Make it executable.
 And run.
 `./Flemp3.sh`
 
-Warning:  It is not good procedure to run random bash script on the internet.
-Look at scripts before you run them.  
+Warning:  It is not good procedure to run random bash scripts on the internet.
+Look at the script before you run it.  
 
 ## ToDo (in no particular order)
 - Allow configuration of where converted mp3s are stored
