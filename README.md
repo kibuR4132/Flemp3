@@ -2,7 +2,7 @@
 A simple bash script that converts a library of flac files to mp3s.  
 
 ## Usage
-Just place `Flemp3.sh` at the root of your Library structure.  (It should sit among the artist folders)
+Just place `Flemp3.sh` at the root of your music library structure.
 
 Make it executable.
 `chmod +x Flemp3.sh`
